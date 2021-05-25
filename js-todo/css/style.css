@@ -1,0 +1,19 @@
+.list{
+ 
+    border: 2px solid gold;
+    width: 12%;
+    margin-top:10px;
+    padding:5px;
+    display: grid;
+    grid-template-columns:5fr 2fr 1fr;
+    border-radius: 5px;
+}
+
+.underline{
+    text-decoration: line-through;
+}
+
+
+.save{
+    border:red 2px solid
+}
